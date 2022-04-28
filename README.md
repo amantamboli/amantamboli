@@ -63,7 +63,7 @@
 
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amantamboli)](https://github.com/amantamboli/github-readme-stats)
 
 
 <details>
