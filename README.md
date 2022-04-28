@@ -13,17 +13,6 @@
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: Je connais un peu le français
 
-<p align="center">  
-      <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="spring" width="55" height="55"/><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="java" width="65" height="65"/> 
-      <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-</p>
 
 ---
 
