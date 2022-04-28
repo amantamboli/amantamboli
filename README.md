@@ -60,12 +60,6 @@
 <br />
 
 ---
-### Lets connect through:
-<a href="https://www.facebook.com/tewaryb/"><img src="https://img.icons8.com/fluency/48/000000/linkdin.png"/></a>
-<a href="https://twitter.com/bhumika_tewary"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-<a href="https://www.linkedin.com/in/bhumika-tewary-6673681a4/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://in.pinterest.com/"><img src="https://img.icons8.com/color/48/000000/pinterest--v1.png"/></a>
----
 
 
 
@@ -78,6 +72,9 @@
    <br/>
    <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amantamboli&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
+
+---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
