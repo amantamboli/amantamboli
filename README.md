@@ -5,12 +5,12 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me:
-- 🏦 I'm a Software Development Engineer working for a Health Tech startup in India 
+- 🏦 I'm pursuing my Master's Degree in Computer Science.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- 🔭💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
+- ✍ You can find my resume here [Resume]
+- 📫 Reach out to me: amantamboli7781@gmail.com
 - ⚡ Fun fact: Je connais un peu le français
 
 
@@ -39,6 +39,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 
 
 
