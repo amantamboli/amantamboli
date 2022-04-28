@@ -19,7 +19,7 @@
 ### Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/amantamboli/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amantamboli/linkedin" height="30" width="40" /></a>  
-<a href="https://t.me/tamboliaman" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="amantamboli/telegram" height="30" width="40" /></a>  
+<a href="https://t.me/tamboliaman" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/telegram.svg" alt="amantamboli/telegram" height="30" width="40" /></a>  
 <a href="mailto: amantamboli7781@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="amantamboli/gmail" height="30" width="40" /></a>  
 
 </p>
