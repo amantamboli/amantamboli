@@ -18,7 +18,7 @@
 
 ### Connect with me:
 
-<a href="https://auth.geeksforgeeks.org/user/prajakta_mane/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkdin.svg" alt="prajakta_mane/profile" height="30" width="40" /></a>  
+<a href="https://auth.geeksforgeeks.org/user/prajakta_mane/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prajakta_mane/profile" height="30" width="40" /></a>  
 </p>  
 
 ---
