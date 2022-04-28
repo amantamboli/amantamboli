@@ -68,16 +68,20 @@
 
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
+
 ![Aman Tamboli's GitHub stats](https://github-readme-stats.vercel.app/api?username=amantamboli&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amantamboli&theme=dark)](https://git.io/streak-stats)
+
+<img align="center" alt="Activity Graph" src="https://github-readme-stats.vercel.app/api?username=amantamboli&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" />
+<img align="center" alt="Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=amantamboli&theme=dark" />
 
 <details>
    <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
    <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amantamboli&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
-
-visitors count :![Visitor Count](https://profile-counter.glitch.me/amantamboli/count.svg)
+### PROFILE VIEWS 
+ ![Visitor Count](https://profile-counter.glitch.me/amantamboli/count.svg)
 
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
