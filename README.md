@@ -17,7 +17,7 @@
 ---
 
 ### Connect with me:
-
+<p align="left">
 <a href="https://auth.geeksforgeeks.org/user/prajakta_mane/profile" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prajakta_mane/profile" height="30" width="40" /></a>  
 
 <a href="https://auth.geeksforgeeks.org/user/prajakta_mane/profile" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="prajakta_mane/profile" height="30" width="40" /></a>  
@@ -27,8 +27,7 @@
 <a href="https://auth.geeksforgeeks.org/user/prajakta_mane/profile" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prajakta_mane/profile" height="30" width="40" /></a>  
 <a href="https://auth.geeksforgeeks.org/user/prajakta_mane/profile" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prajakta_mane/profile" height="30" width="40" /></a>  
 <a href="https://auth.geeksforgeeks.org/user/prajakta_mane/profile" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prajakta_mane/profile" height="30" width="40" /></a>  
-
- 
+</p>
 
 ---
 ### Languages and Tools:
