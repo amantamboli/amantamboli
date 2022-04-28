@@ -18,14 +18,10 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://auth.geeksforgeeks.org/user/prajakta_mane/profile" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prajakta_mane/profile" height="30" width="40" /></a>  
-<a href="https://auth.geeksforgeeks.org/user/prajakta_mane/profile" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="prajakta_mane/profile" height="30" width="40" /></a>  
-<a href="https://auth.geeksforgeeks.org/user/prajakta_mane/profile" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="prajakta_mane/profile" height="30" width="40" /></a>  
-<a href="https://auth.geeksforgeeks.org/user/prajakta_mane/profile" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prajakta_mane/profile" height="30" width="40" /></a>  
-<a href="https://auth.geeksforgeeks.org/user/prajakta_mane/profile" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prajakta_mane/profile" height="30" width="40" /></a>  
-<a href="https://auth.geeksforgeeks.org/user/prajakta_mane/profile" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prajakta_mane/profile" height="30" width="40" /></a>  
-<a href="https://auth.geeksforgeeks.org/user/prajakta_mane/profile" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prajakta_mane/profile" height="30" width="40" /></a>  
-<a href="https://auth.geeksforgeeks.org/user/prajakta_mane/profile" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prajakta_mane/profile" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/amantamboli/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amantamboli/linkedin" height="30" width="40" /></a>  
+<a href="https://t.me/tamboliaman" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="amantamboli/telegram" height="30" width="40" /></a>  
+<a href="amantamboli7781@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="amantamboli/gmail" height="30" width="40" /></a>  
+
 </p>
 <h3 align="left">Active On :</h3>  
 <p align="left">  
@@ -69,9 +65,10 @@
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
 
-æ
 <p align="center">
 <img align="center" alt="Activity Graph" src="https://github-readme-stats.vercel.app/api?username=amantamboli&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" />
+
+
 <img align="center" alt="Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=amantamboli&theme=dark" />
 </p>
 <details>
