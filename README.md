@@ -65,8 +65,8 @@
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
 ![Aman Tamboli's GitHub stats](https://github-readme-stats.vercel.app/api?username=amantamboli&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-![Aman Tamboli's GitHub stats](https://github-readme-stats.vercel.app/api?username=amantamboli&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amantamboli&theme=dark)](https://git.io/streak-stats)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=amantamboli&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
 
 [website]: https://codeSTACKr.com
