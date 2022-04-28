@@ -63,9 +63,9 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amantamboli)](https://github.com/amantamboli/github-readme-stats)
+[![Aman Tamboli's GitHub stats](https://github-readme-stats.vercel.app/api?username=amantamboli)](https://github.com/amantamboli/github-readme-stats)
 
-
+![Aman Tamboli's GitHub stats](https://github-readme-stats.vercel.app/api?username=amantamboli&show_icons=true)
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
