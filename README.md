@@ -60,6 +60,12 @@
 <br />
 
 ---
+### Lets connect through:
+<a href="https://www.facebook.com/tewaryb/"><img src="https://img.icons8.com/fluency/48/000000/linkdin.png"/></a>
+<a href="https://twitter.com/bhumika_tewary"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="https://www.linkedin.com/in/bhumika-tewary-6673681a4/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://in.pinterest.com/"><img src="https://img.icons8.com/color/48/000000/pinterest--v1.png"/></a>
+---
 
 
 
