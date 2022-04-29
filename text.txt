@@ -1,0 +1,11 @@
+https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&style=flat
+https://img.shields.io/badge/-Telegram-26A5E4?logo=Telegram&style=flat
+https://img.shields.io/badge/-amanullatamboli7781@gmail.com-EA4335?logo=Gmail&style=flat&logoColor=white
+
+
+https://img.shields.io/badge/-CodeChef-5B4638?logo=CodeChef&style=flat
+https://img.shields.io/badge/-atcoder-00599C?logo=Codio&style=flat&logoColor=white
+https://img.shields.io/badge/-Codeforces-1F8ACB?logo=Codeforces&style=flat&logoColor=white
+
+https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&style=flat&logoColor=white
+https://img.shields.io/badge/-CodePen-000000?logo=CodePen&style=flat&logoColor=white

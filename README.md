@@ -15,7 +15,7 @@
 
 
 ---
-
+|![](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&style=flat)(https://www.linkedin.com/in/amantamboli/)|
 ### Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/amantamboli/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amantamboli/linkedin" height="30" width="40" /></a>  
