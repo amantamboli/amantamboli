@@ -23,28 +23,33 @@
 <a href="mailto: amantamboli7781@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Mail%20Me-EA4335?logo=Gmail&style=flat-square&logoColor=white" alt="amantamboli/gmail" height="30px" /></a>  
 
 </p>
-<h3 align="left">Active On :</h3>  
+
+### Active On :
 <p align="left">  
- <a href="https://www.linkedin.com/in/amantamboli/" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?logo=CodeChef&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/></a> 
+ <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?logo=CodeChef&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/></a> 
+ <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Codeforces-1F8ACB?logo=Codeforces&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/></a> 
+ <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-atcoder-00599C?logo=Codio&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/></a> 
+ <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/></a> 
+ <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-CodePen-000000?logo=CodePen&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/></a> 
 </p>  
 
 ---
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/django.png"/>
+<img align="left" alt="c-plus-plus-logo" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img align="left" alt="javascript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img align="left" alt="python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>
+<img align="left" alt="django" width="26px" src="https://img.icons8.com/color/48/000000/django.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="left" alt="html-5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img align="left" alt="css3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/github.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align="left" alt="github" width="26px" src="https://img.icons8.com/color/48/000000/github.png"/>
+<img align="left" alt="git" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/mysql.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/postgresql.png"/>
+<img align="left" alt="mysql" width="26px" src="https://img.icons8.com/color/48/000000/mysql.png"/>
+<img align="left" alt="postgresql" width="26px" src="https://img.icons8.com/color/48/000000/postgresql.png"/>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/java.png"/>
+<img align="left" alt="java" width="26px" src="https://img.icons8.com/color/48/000000/java.png"/>
 
 
 
@@ -71,20 +76,10 @@
 
 ---
 
-### PROFILE VIEWS 
+### Profile Views:
+
 ![](https://profile-counter.glitch.me/amantamboli/count.svg)
 
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[Resume]: https://drive.google.com/file/d/1IrSr3yR7FD0TTBlr8Z2kj4swchsdZe74/view?usp=sharing
