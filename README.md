@@ -9,6 +9,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🔭 Focus!
 - 🌱 I’m currently learning everything 🤣
+- 🤔: I’m looking for help with anything I am currently working on! 😅
 - ✍ You can find my resume here [Resume]
 - 📫 Reach out to me: amantamboli7781@gmail.com
 - ⚡ Fun fact: Je connais un peu le français.
