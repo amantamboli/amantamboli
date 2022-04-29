@@ -1,17 +1,17 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-## I'm [Aman Tamboli!](https://github.com/amantamboli)  Computer Science Student!!
+## I'm [Aman Tamboli!](https://amantamboli.github.io/portfolio/)  Computer Science Student!!
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me:
-- 🏦 I'm pursuing my Master's Degree in Computer Science.
+- 🏦 I'm pursuing Master's Degree in Computer Science.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🔭💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
+- 🔭 Focus!
 - 🌱 I’m currently learning everything 🤣
 - ✍ You can find my resume here [Resume]
 - 📫 Reach out to me: amantamboli7781@gmail.com
-- ⚡ Fun fact: Je connais un peu le français
+- ⚡ Fun fact: Je connais un peu le français.
 
 
 ---
