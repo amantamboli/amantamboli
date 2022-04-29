@@ -37,10 +37,7 @@
 ---
 ### Languages and Tools:
 
-|![](https://img.shields.io/badge/-C++-00599C?logo=C++&style=flat&logoColor=white)
-|![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=flat&logoColor=white)
-|![](https://img.shields.io/badge/-Python-3776AB?logo=Python&style=flat&logoColor=white)
-|![](https://img.shields.io/badge/-Django-092E20?logo=Django&style=flat&logoColor=white)
+|![](https://img.shields.io/badge/-C++-00599C?logo=C++&style=flat&logoColor=white)|![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=flat&logoColor=white)|![](https://img.shields.io/badge/-Python-3776AB?logo=Python&style=flat&logoColor=white)|![](https://img.shields.io/badge/-Django-092E20?logo=Django&style=flat&logoColor=white)
 
 
 
