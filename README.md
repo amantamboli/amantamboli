@@ -1,13 +1,12 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-
 ## I'm [Aman Tamboli!](https://amantamboli.github.io/portfolio/)  Computer Science Student!!
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me:
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me:
 - 🏦 I'm pursuing Master's Degree in Computer Science.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🔭 Focus!
+- 🔭 Focusing!
 - 🌱 I’m currently learning everything 🤣
 - 🤔: I’m looking for help with anything I am currently working on! 😅
 - ✍ You can find my resume here [Resume]
@@ -17,7 +16,7 @@
 
 ---
 
-### Connect with me:
+# Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/amantamboli/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&style=flat" alt="amantamboli/linkedin" height="30px"/></a>  
 <a href="https://t.me/tamboliaman" target="_blank"><img align="center" src="https://img.shields.io/badge/-Telegram-26A5E4?logo=Telegram&style=flat" alt="amantamboli/telegram" height="30px" /></a>  
@@ -25,38 +24,38 @@
 
 </p>
 
-### Active On :
+# Active On :
 <p align="left">  
  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?logo=CodeChef&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/></a> 
- <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Codeforces-1F8ACB?logo=Codeforces&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/></a> 
- <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-atcoder-00599C?logo=Codio&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/></a> 
- <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/></a> 
- <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-CodePen-000000?logo=CodePen&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/></a> 
+ <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Codeforces-1F8ACB?logo=Codeforces&style=flat&logoColor=white" alt="amantamboli/Codeforces" height="30px"/></a> 
+ <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-atcoder-00599C?logo=Codio&style=flat&logoColor=white" alt="amantamboli/atcoder" height="30px"/></a> 
+ <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&style=flat&logoColor=white" alt="amantamboli/leetcode" height="30px"/></a> 
+ <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-CodePen-000000?logo=CodePen&style=flat&logoColor=white" alt="amantamboli/Codepen" height="30px"/></a> 
 </p>  
 
 ---
-### Languages and Tools:
+## Languages and Tools:
 <p align="left">
-<img align="center" src="https://img.shields.io/badge/-C++-00599C?logo=C++&style=flat&logoColor=white&logoHeight=30" alt="amantamboli/CodeChef" height="30px"/>
-<img align="center" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=flat&logoColor=white&logoHeight=30" alt="amantamboli/CodeChef" height="30px"/>
-<img align="center" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&style=flat&logoColor=white&logoHeight=30" alt="amantamboli/CodeChef" height="30px"/>
-<img align="center" src="https://img.shields.io/badge/-Django-092E20?logo=Django&style=flat&logoColor=white&logoHeight=30" alt="amantamboli/CodeChef" height="30px"/>
-<img align="center" src="https://img.shields.io/badge/-CodePen-092E20?logo=CodePen&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
-<img align="center" src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
-<img align="center" src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
+<img align="center" src="https://img.shields.io/badge/-C++-00599C?logo=C++&style=flat&logoColor=white&logoHeight=30" alt="amantamboli/C++" height="30px"/>
+<img align="center" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=flat&logoColor=white&logoHeight=30" alt="amantamboli/javascript" height="30px"/>
+<img align="center" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&style=flat&logoColor=white&logoHeight=30" alt="amantamboli/python" height="30px"/>
+<img align="center" src="https://img.shields.io/badge/-Django-092E20?logo=Django&style=flat&logoColor=white&logoHeight=30" alt="amantamboli/django" height="30px"/>
+<img align="center" src="https://img.shields.io/badge/-CodePen-092E20?logo=CodePen&style=flat&logoColor=white" alt="amantamboli/Codepen" height="30px"/>
+<img align="center" src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&style=flat&logoColor=white" alt="amantamboli/html" height="30px"/>
+<img align="center" src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&style=flat&logoColor=white" alt="amantamboli/Css" height="30px"/>
 <br>
 <br>
-<img align="center" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
-<img align="center" src="https://img.shields.io/badge/-Git-F05032?logo=Git&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
-<img align="center" src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
-<img align="center" src="https://img.shields.io/badge/-Java-007396?logo=Java&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
-<img align="center" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
-<img align="center" src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
+<img align="center" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&style=flat&logoColor=white" alt="amantamboli/vscode" height="30px"/>
+<img align="center" src="https://img.shields.io/badge/-Git-F05032?logo=Git&style=flat&logoColor=white" alt="amantamboli/git" height="30px"/>
+<img align="center" src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&style=flat&logoColor=white" alt="amantamboli/github" height="30px"/>
+<img align="center" src="https://img.shields.io/badge/-Java-007396?logo=Java&style=flat&logoColor=white" alt="amantamboli/java" height="30px"/>
+<img align="center" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&style=flat&logoColor=white" alt="amantamboli/psql" height="30px"/>
+<img align="center" src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&style=flat&logoColor=white" alt="amantamboli/mysql" height="30px"/>
 <br>
 <br>
-<img align="center" src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
-<img align="center" src="https://img.shields.io/badge/-DigitalOcean-0080FF?logo=DigitalOcean&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
-<img align="center" src="https://img.shields.io/badge/-Canva-00C4CC?logo=Canva&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
+<img align="center" src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&style=flat&logoColor=white" alt="amantamboli/php" height="30px"/>
+<img align="center" src="https://img.shields.io/badge/-DigitalOcean-0080FF?logo=DigitalOcean&style=flat&logoColor=white" alt="amantamboli/digitalocean" height="30px"/>
+<img align="center" src="https://img.shields.io/badge/-Canva-00C4CC?logo=Canva&style=flat&logoColor=white" alt="amantamboli/Canva" height="30px"/>
 </p> 
 
 
