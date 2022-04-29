@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/amantamboli/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&style=flat" alt="amantamboli/linkedin" /></a>  
 <a href="https://t.me/tamboliaman" target="_blank"><img align="center" src="https://img.shields.io/badge/-Telegram-26A5E4?logo=Telegram&style=flat" alt="amantamboli/telegram"  /></a>  
-<a href="mailto: amantamboli7781@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-amanullatamboli7781@gmail.com-EA4335?logo=Gmail&style=flat&logoColor=white" alt="amantamboli/gmail" height="20px" /></a>  
+<a href="mailto: amantamboli7781@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-amanullatamboli7781@gmail.com-EA4335?logo=Gmail&style=flat&logoColor=white" alt="amantamboli/gmail" height="30px" /></a>  
 
 </p>
 <h3 align="left">Active On :</h3>  
