@@ -43,13 +43,15 @@
 <img align="center" src="https://img.shields.io/badge/-Django-092E20?logo=Django&style=flat&logoColor=white&logoHeight=30" alt="amantamboli/CodeChef" height="30px"/>
 <img align="center" src="https://img.shields.io/badge/-CodePen-092E20?logo=CodePen&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
 <img align="center" src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
-<img align="center" src="https://img.shields.io/badge/-CSS3-#1572B6?logo=CSS3&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
+<img align="center" src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
+<br>
 <img align="center" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
 <img align="center" src="https://img.shields.io/badge/-Git-F05032?logo=Git&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
 <img align="center" src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
 <img align="center" src="https://img.shields.io/badge/-Java-007396?logo=Java&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
-<img align="center" src="https://img.shields.io/badge/-PostgreSQL-#4169E1?logo=PostgreSQL&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
-<img align="center" src="https://img.shields.io/badge/-MySQL-#4479A1?logo=MySQL&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
+<img align="center" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
+<img align="center" src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
+<br>
 <img align="center" src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
 <img align="center" src="https://img.shields.io/badge/-DigitalOcean-0080FF?logo=DigitalOcean&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
 <img align="center" src="https://img.shields.io/badge/-Canva-00C4CC?logo=Canva&style=flat&logoColor=white" alt="amantamboli/CodeChef" height="30px"/>
