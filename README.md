@@ -15,12 +15,12 @@
 
 
 ---
-![https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&style=flat](https://www.linkedin.com/in/amantamboli/)
+
 ### Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/amantamboli/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amantamboli/linkedin" height="30" width="40" /></a>  
-<a href="https://t.me/tamboliaman" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/telegram.svg" alt="amantamboli/telegram" height="30" width="40" /></a>  
-<a href="mailto: amantamboli7781@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="amantamboli/gmail" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/amantamboli/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&style=flat" alt="amantamboli/linkedin" height="30" width="40" /></a>  
+<a href="https://t.me/tamboliaman" target="_blank"><img align="center" src="https://img.shields.io/badge/-Telegram-26A5E4?logo=Telegram&style=flat" alt="amantamboli/telegram" height="30" width="40" /></a>  
+<a href="mailto: amantamboli7781@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-amanullatamboli7781@gmail.com-EA4335?logo=Gmail&style=flat&logoColor=white" alt="amantamboli/gmail" height="30" width="40" /></a>  
 
 </p>
 <h3 align="left">Active On :</h3>  
