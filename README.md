@@ -91,5 +91,5 @@
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
 
-[Resume]: https://drive.google.com/file/d/1b5SwSwFLAwrejVJDwO0Sna7sAI6ocitf/view?usp=drive_link
+[Resume]: https://drive.google.com/file/d/189fyIJVL4UzInK1_zu63NM0HBf7Vyvpe/view?usp=drive_link
 
